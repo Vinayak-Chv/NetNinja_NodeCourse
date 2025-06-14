@@ -1,0 +1,25 @@
+{
+  "name": "netninja_nodecourse",
+  "version": "1.0.0",
+  "description": "Status Codes:\r 100 Range - Informational Responses\r 200 Range - Success Codes\r 300 Range - Codes for Redirects\r 400 Range = User or Client Error Codes\r 500 Range - Server Error Codes",
+  "main": "File_System.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinayak-Chv/NetNinja_NodeCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinayak-Chv/NetNinja_NodeCourse/issues"
+  },
+  "homepage": "https://github.com/Vinayak-Chv/NetNinja_NodeCourse#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "lodash": "^4.17.21"
+  }
+}
