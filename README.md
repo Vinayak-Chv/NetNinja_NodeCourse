@@ -4,7 +4,7 @@ Status Codes:
 100 Range - Informational Responses
 200 Range - Success Codes
 300 Range - Codes for Redirects
-400 Range = User or Client Error Codes
+400 Range - User or Client Error Codes
 500 Range - Server Error Codes
 
 Day Report
