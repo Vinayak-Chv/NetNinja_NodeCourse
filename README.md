@@ -11,3 +11,4 @@ Day Report
 
 1st Day - File System, Global, Streams, Test, Modules
 2nd Day - Server {Request & Response Object, Basic Routing, Status Code, Redirecting}, Express App {Basics, Routing}
+3rd Day - Database Connectivity
