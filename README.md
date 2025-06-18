@@ -7,6 +7,12 @@ Status Codes:
 400 Range - User or Client Error Codes
 500 Range - Server Error Codes
 
+Request Types: (Related to Data in Database)
+GET     = Request the resources 
+POST    = To Create the new Data
+DELETE  = Delete the Existing Data
+PUT     = Request to Update the Data
+
 Day Report
 
 1st Day - File System, Global, Streams, Test, Modules
